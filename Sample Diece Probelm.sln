@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Diece Probelm", "Sample Dies Probelm\Sample Diece Probelm.csproj", "{8301A680-F7D6-415C-8BC7-BCE43C9F5183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedGameCore", "GreedGameCore\GreedGameCore.csproj", "{F1E1C2B5-7C5C-4324-958C-C8B46679A134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedUnitTest", "GreedUnitTest\GreedUnitTest.csproj", "{1C95F4E5-31A5-4243-8B93-B157DD9357E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8301A680-F7D6-415C-8BC7-BCE43C9F5183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8301A680-F7D6-415C-8BC7-BCE43C9F5183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8301A680-F7D6-415C-8BC7-BCE43C9F5183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8301A680-F7D6-415C-8BC7-BCE43C9F5183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E1C2B5-7C5C-4324-958C-C8B46679A134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E1C2B5-7C5C-4324-958C-C8B46679A134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E1C2B5-7C5C-4324-958C-C8B46679A134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E1C2B5-7C5C-4324-958C-C8B46679A134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C95F4E5-31A5-4243-8B93-B157DD9357E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C95F4E5-31A5-4243-8B93-B157DD9357E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C95F4E5-31A5-4243-8B93-B157DD9357E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C95F4E5-31A5-4243-8B93-B157DD9357E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
