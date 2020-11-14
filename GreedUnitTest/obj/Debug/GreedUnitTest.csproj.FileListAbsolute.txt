@@ -1,0 +1,11 @@
+E:\GreedGame\GreedGame\GreedUnitTest\obj\Debug\GreedUnitTest.csprojAssemblyReference.cache
+E:\GreedGame\GreedGame\GreedUnitTest\obj\Debug\GreedUnitTest.csproj.CoreCompileInputs.cache
+E:\GreedGame\GreedGame\GreedUnitTest\bin\Debug\GreedUnitTest.dll
+E:\GreedGame\GreedGame\GreedUnitTest\bin\Debug\GreedUnitTest.pdb
+E:\GreedGame\GreedGame\GreedUnitTest\bin\Debug\GameCore.dll
+E:\GreedGame\GreedGame\GreedUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GreedGame\GreedGame\GreedUnitTest\bin\Debug\GameCore.pdb
+E:\GreedGame\GreedGame\GreedUnitTest\obj\Debug\GreedUnitTest.csproj.CopyComplete
+E:\GreedGame\GreedGame\GreedUnitTest\obj\Debug\GreedUnitTest.dll
+E:\GreedGame\GreedGame\GreedUnitTest\obj\Debug\GreedUnitTest.pdb
+E:\GreedGame\GreedGame\GreedUnitTest\bin\Debug\Newtonsoft.Json.dll

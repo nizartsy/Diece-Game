@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DieceGame>
+  <Combinations>
+    <Combination>
+      <Value>1</Value>
+      <Times>3</Times>
+      <Score>50</Score>
+    </Combination>
+    <Combination>
+      <Value>2</Value>
+      <Times>2</Times>
+      <Score>150</Score>
+    </Combination>
+    <Combination>
+      <Value>3</Value>
+      <Times>3</Times>
+      <Score>250</Score>
+    </Combination>
+    <Combination>
+      <Value>3</Value>
+      <Times></Times>
+      <Score>350</Score>
+    </Combination>
+    <Combination>
+      <Value>1</Value>
+      <Times>5</Times>
+      <Score>500</Score>
+    </Combination>
+  </Combinations>
+</DieceGame>
