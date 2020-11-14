@@ -8,17 +8,11 @@ namespace GreedGameCore
     public class GreedGame
     {
         #region Enum Field
-        public enum Score
+        public class Reward
         {
-            SingleOne = 100,
-            SingleFive = 50,
-            TrippleOne = 1000,
-            TrippleTwo = 200,
-            TrippleThree = 300,
-            TrippleFour = 400,
-            TrippleFive = 500,
-            TrippleSix = 600,
-            ZeroScore = 0
+            public int Number { get; set; }
+            public int Times { get; set; }
+            public int Score { get; set; }
         }
         #endregion
         #region Properties

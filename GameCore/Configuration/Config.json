@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Number": 1,
+    "Times": 1,
+    "Score": 100
+  },
+  {
+    "Number": 1,
+    "Times": 3,
+    "Score": 1000
+  },
+  {
+    "Number": 2,
+    "Times": 3,
+    "Score": 200
+  },
+  {
+    "Number": 3,
+    "Times": 3,
+    "Score": 300
+  },
+  {
+    "Number": 4,
+    "Times": 3,
+    "Score": 400
+  },
+  {
+    "Number": 5,
+    "Times": 1,
+    "Score": 50
+  },
+  {
+    "Number": 5,
+    "Times": 3,
+    "Score": 500
+  },
+  {
+    "Number": 6,
+    "Times": 3,
+    "Score": 600
+  },
+  {
+    "Number": 0,
+    "Times": 0,
+    "Score": 0
+  }
+]

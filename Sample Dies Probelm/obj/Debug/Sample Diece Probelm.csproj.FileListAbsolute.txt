@@ -1,0 +1,11 @@
+E:\GreedGame\GreedGame\Sample Dies Probelm\obj\Debug\Sample Diece Probelm.csprojAssemblyReference.cache
+E:\GreedGame\GreedGame\Sample Dies Probelm\obj\Debug\Sample Diece Probelm.csproj.CoreCompileInputs.cache
+E:\GreedGame\GreedGame\Sample Dies Probelm\bin\Debug\Sample Diece Probelm.exe.config
+E:\GreedGame\GreedGame\Sample Dies Probelm\bin\Debug\Sample Diece Probelm.exe
+E:\GreedGame\GreedGame\Sample Dies Probelm\bin\Debug\Sample Diece Probelm.pdb
+E:\GreedGame\GreedGame\Sample Dies Probelm\bin\Debug\GameCore.dll
+E:\GreedGame\GreedGame\Sample Dies Probelm\bin\Debug\GameCore.pdb
+E:\GreedGame\GreedGame\Sample Dies Probelm\obj\Debug\Sample Diece Probelm.csproj.CopyComplete
+E:\GreedGame\GreedGame\Sample Dies Probelm\obj\Debug\Sample Diece Probelm.exe
+E:\GreedGame\GreedGame\Sample Dies Probelm\obj\Debug\Sample Diece Probelm.pdb
+E:\GreedGame\GreedGame\Sample Dies Probelm\bin\Debug\Newtonsoft.Json.dll

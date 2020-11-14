@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using GreedGameCore;
+using GameCore;
 
 
 
@@ -58,7 +55,7 @@ namespace Sample_Dies_Probelm
         /// </summary>
         private static void getScore()
         {
-            GreedGame obj = new GreedGame();
+            GameCore.GameCore obj = new GameCore.GameCore();
             int[] randomeNumber = new int[5];
             try
             {

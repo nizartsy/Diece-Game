@@ -5,19 +5,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GreedGameCore;
+using GameCore;
 
 namespace GreedGameTest.Tests
 {
     [TestClass()]
     public class GreedTest
     {
-        GreedGame obj = null;
+        GameCore.GameCore obj = null;
 
-        [TestMethod()]
-        public void CheckTotalTest()
-        {
-        }
         [TestMethod]
         public void RunWithValue()
         {          
@@ -36,18 +32,10 @@ namespace GreedGameTest.Tests
             runArr = new int[] { 5, 5, 5, 5, 5 };
             Assert.AreEqual(checkScore(runArr), 600);
         }
-        [TestMethod]
-        public void RunWithoutValue()
-        {
-            obj = new GreedGame();
-            int[] runArr = null;
-            obj.Combinations = runArr;
-            Assert.IsNotNull(obj.CalculateScore());
-        }
 
         private int checkScore(int[] array)
         {
-            obj = new GreedGame();
+            obj = new GameCore.GameCore();
             obj.Combinations = array;
             return obj.CalculateScore();
         }

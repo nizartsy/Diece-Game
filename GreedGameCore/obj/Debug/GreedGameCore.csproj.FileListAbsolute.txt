@@ -1,0 +1,6 @@
+E:\GreedGame\GreedGame\GreedGameCore\bin\Debug\GreedGameCore.dll
+E:\GreedGame\GreedGame\GreedGameCore\bin\Debug\GreedGameCore.pdb
+E:\GreedGame\GreedGame\GreedGameCore\obj\Debug\GreedGameCore.csprojAssemblyReference.cache
+E:\GreedGame\GreedGame\GreedGameCore\obj\Debug\GreedGameCore.csproj.CoreCompileInputs.cache
+E:\GreedGame\GreedGame\GreedGameCore\obj\Debug\GreedGameCore.dll
+E:\GreedGame\GreedGame\GreedGameCore\obj\Debug\GreedGameCore.pdb
